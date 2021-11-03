@@ -1,5 +1,5 @@
-# Magic Eden Wolves of SOL Street Monitor
+# Solana Droid Business Monitor tool
 
-Monitors Wolves of SOL Street marketplace and updates data every 30min.
+Monitors Solana Droid Business marketplace and updates data every 30min.
 
-Browse data at https://flatgithub.com/braposo/magiceden-wolves-monitor
+Browse data at https://flatgithub.com/braposo/sdb-monitor
