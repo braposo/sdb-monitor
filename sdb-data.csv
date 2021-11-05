@@ -12,6 +12,7 @@ id,price,rank,url
 1339,2.49,1146,https://magiceden.io/item-details/5pyzf9S9DExAarzSBJYzjaLuZq7iga76wMftYizAh3GB
 869,2.49,4195,https://magiceden.io/item-details/eJz3E6qHST5hYP8WywEgGddQR5CfTJab8s8Q5UAHNwV
 132,2.49,3263,https://magiceden.io/item-details/E228Y2ezAcW4HbieTFGimE8M3stmuLDvsJrjpmjw1bXi
+2006,2.5,818,https://magiceden.io/item-details/DSxEBep4TWzysZrzD8sUVFmxnE2ZS99qEbTtosMRrtcp
 3763,2.5,3355,https://magiceden.io/item-details/GMyDkLVzj8BaXoQiJmeEXp41VFZ3q4heQVzesV9tTNxz
 3536,2.5,3957,https://magiceden.io/item-details/C5ifS7TJTXyE1dusJPA9M52Say7VHUCb83pKwptGbiea
 3509,2.5,2891,https://magiceden.io/item-details/7VvzGf87ZQFJnAiJtqaPGwghn1cEY7w6UdDHNQhJQNpi
@@ -83,7 +84,6 @@ id,price,rank,url
 3032,3.5,2438,https://magiceden.io/item-details/4iX66P1wyKKoQevBFvU2Vof6qcQ3hyxedGDzyMQGf93z
 1975,3.5,2806,https://magiceden.io/item-details/HYvuzbFfRPDXpoRJE5UeQduzmztLMSf7FZ8cehxSe2hd
 2634,3.5,4818,https://magiceden.io/item-details/CxNw454ekgh2N5wcoXQrEQyhCAfFRzp27Ycbf23bjRxM
-2006,3.5,818,https://magiceden.io/item-details/DSxEBep4TWzysZrzD8sUVFmxnE2ZS99qEbTtosMRrtcp
 2955,3.5,3022,https://magiceden.io/item-details/D9q3NhCHhC7QPKysHGwsfJ34UnjF7x622KxMyQm1FCn1
 136,3.5,4565,https://magiceden.io/item-details/EzpretrgddE9ofiGKeCsUHbh5ENLWFEEaHtrq7KVFrPf
 493,3.5,3371,https://magiceden.io/item-details/H9W2AA1ZwHw1FMooTyYFBsdEqUit2GurFzEaYnZKDV9G
@@ -198,6 +198,7 @@ id,price,rank,url
 441,5,4215,https://magiceden.io/item-details/8HjUN3FzFvdCxdFbm7ix3RLcTTC4myS7L3mpQ7v2wRxG
 3814,5,4731,https://magiceden.io/item-details/74qp5LZctAaoKfrW24tapWmXsRh3KJUgtMcPb18T12CH
 4840,5.49,462,https://magiceden.io/item-details/GwhuS6ajKu7GG2jUyj7qU6sjuSNY6F4tWrHhc2FTpz7F
+969,5.5,221,https://magiceden.io/item-details/GspbgzrJUHXtRac3bmfazJzBWoracYYTkrDBxar3UuPx
 1368,5.5,2289,https://magiceden.io/item-details/UzCQDDpQbA1tLCL5pqHauHoXNfLRhfa6W7JiQ8g6skp
 4939,5.5,963,https://magiceden.io/item-details/5kMo8z8oCCgvZuxToqrqhQpSjA5nL7PoPu4WGwemtnZR
 1572,5.5,106,https://magiceden.io/item-details/EybTJB8HGRZgWtpkn6fy6ojWtPzQH4987912hHvuwPK8
