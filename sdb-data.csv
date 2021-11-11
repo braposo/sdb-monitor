@@ -7,6 +7,7 @@ id,price,rank,url
 3465,1.986942069,515,https://magiceden.io/item-details/63cLmRicrByQoMtWNLjimmxU59wdV6zEzsUNnBYPSLEL
 2193,1.99,1835,https://magiceden.io/item-details/HxmAtBh9DRpvJVQhMLv3GdYBRZEK56cFrjqDm2jX9qg5
 4335,1.99,1718,https://magiceden.io/item-details/36am7y9CyUXXNJa9htVo53rVWNYfsUkvm6u1WYHAyTbg
+3093,2,4471,https://magiceden.io/item-details/4BvjocQJQqc5Z8iW2DnnfErMJqkZrM7hfAH9ePAa6fgY
 1696,2,1279,https://magiceden.io/item-details/4UMVbASKDTFPD3A9frVt1vp8kzysLgKvB4JWhes5tPyV
 1895,2,2737,https://magiceden.io/item-details/6iuvrYGNDt2x4KQJSfjcjvz4qoKvvBH4TxFBGTzpB2Pm
 761,2,1369,https://magiceden.io/item-details/CawxFp4AghoM3bhtgUgrun477osXXhKVtGtY6r2ZAUbT
@@ -39,7 +40,6 @@ id,price,rank,url
 4774,2.5,3196,https://magiceden.io/item-details/2bCJnh1wBourqCP8ZnQLMGFxHkUoMSVZf2NZW9F44b41
 1012,2.5,1264,https://magiceden.io/item-details/eE1HhSuyWp65hXghfDY3VcTc1TMdTx555goHghT27rZ
 2099,2.5,3937,https://magiceden.io/item-details/6c5d1LPqbCJxyQyCPRqX3TKXyatigapGZzoX5JwhuyL7
-3110,2.5,2293,https://magiceden.io/item-details/BYifsBD6grUHDCLrHPgHUexE64gFW7eiupvo5Ya7eKMF
 897,2.5,987,https://magiceden.io/item-details/HLDem5QEaTz9SQTa1iPiC7iu7sPCUejvP51e5pJs8PDw
 614,2.5,1275,https://magiceden.io/item-details/ACv8efyYfetBCQzcNGuZpqvsiZQMF3du16T7dwQeYy7Y
 3752,2.5,4158,https://magiceden.io/item-details/HATz1uhitHMUseVZn3vz21UvLBqX1DKuS8oVgcSK8fFe
@@ -59,6 +59,7 @@ id,price,rank,url
 4382,2.59,4930,https://magiceden.io/item-details/8YCRcbjAKsD75JHt628ftksvaqjCjgadpvdziuL6KMkJ
 3715,2.59,3405,https://magiceden.io/item-details/8fuakAtn1p3vu6QLpcfXCJi8wi4489fRLhYjHya9o9ox
 2017,2.59,4271,https://magiceden.io/item-details/2N9SAibgeDGp8VBrmGroBftEAd2ssvvoGE4LxES9he6N
+1471,2.6,2171,https://magiceden.io/item-details/DsizbLqpikH8ywPW7E4Qc6xikd7JhuUU5kBTF52EeDvt
 4486,2.6,4483,https://magiceden.io/item-details/9DRzRos5eUDTsEXoAUT5Q1L3SrNBS6S9cnmc9EXtCdKU
 3375,2.6,3912,https://magiceden.io/item-details/HgQnqqaaND33CDtjwueeGYY1VhXphgMoQDCdfQeJ9QVj
 752,2.69,4315,https://magiceden.io/item-details/BoTvBcbA4h2Dyi9LL99jrF55Gh8go3Zu9mCh7vEqM5N1
