@@ -12,6 +12,7 @@ id,price,rank,url
 1585,1.95,3059,https://magiceden.io/item-details/5dX3vDxyqdnzptJwXSHTaeJCjEQjX1dhHVsnLrqKGykg
 3696,1.99,1919,https://magiceden.io/item-details/7W4viaQpezNdLPpsH2dWzXGSBzdyRmsAdQXU4xxccoaH
 1548,1.99999999,1893,https://magiceden.io/item-details/6fynZK7YLmd9T3E8cepZA1BBFpGJi3rtYQxHHDCWgDgc
+4849,2,900,https://magiceden.io/item-details/4EvqwUx1e8aKaavvQcrK4vNTVHKRgQDRvZbxnXT79YR9
 1419,2,2365,https://magiceden.io/item-details/Cf4g6XAM1a8vNndCQKPdoiMjV9JLo5h76b9boWjB11TA
 882,2,2093,https://magiceden.io/item-details/4f3FhyEv8KJEw1R5QZeMAjzSiYtdCdDfgADdTNddR8AV
 3913,2,4611,https://magiceden.io/item-details/BrMmpzTs8W832TYejCEcMS4MsiuGmSoNELfBMfJAdMYh
@@ -140,6 +141,7 @@ id,price,rank,url
 1552,3.8,4865,https://magiceden.io/item-details/88uB9tZjKRRgWKFSDLBrVwyfqMk3G5sD3cp6xddg3EFT
 2757,3.8,1393,https://magiceden.io/item-details/7CYQrbyK2EX47dHmEJRFsK2FdCuuBcbyjeh5M534VzVb
 255,3.88,531,https://magiceden.io/item-details/ELeuYwbLWaxCCxCTHZiTb5s9Cb3g9zNPcoUNCn2r7w8P
+3360,3.899,546,https://magiceden.io/item-details/4yDojPUBXQuaBqsdtWFSoLMqjaAo97YQw8pXZ74jhwiJ
 1949,3.9,1668,https://magiceden.io/item-details/86YLVtDcxKqY5JqEFQ7gL7C2daLtbRCLNi5GggMXk4S4
 2093,3.9,2474,https://magiceden.io/item-details/62AafZwgpG34Zm1BRVnBx21uG3PXfxtWtpgjwcEhN6eC
 887,3.95,2200,https://magiceden.io/item-details/CAs7WTPSzq9be4N2sTp1xUNDY2BryobnDEh7xDBqPx4f
@@ -239,7 +241,6 @@ id,price,rank,url
 4271,8,4116,https://magiceden.io/item-details/7ehNv8713gkK6KEBwRk8cZFV2D7aEedgnnRkCw5M7qnm
 2053,8.00256,77,https://magiceden.io/item-details/CgnQaBKQAvydhmJ9iYkXAzCdsBuvsapm4U4nr7n9N39J
 2353,8.199999999,4664,https://magiceden.io/item-details/72EYVVSSbFfoFBgSK91bPcMKFu7t1pasroCnBg688wTw
-3689,8.88,452,https://magiceden.io/item-details/7QQ422qrvZdqhVExRh3FChjydhBGCJK4446DUcSccC8W
 662,9.69,1111,https://magiceden.io/item-details/6qoN2Em9eSkh2Xwr9kXWih1SKCw6D7yuGaH6enRtw5fE
 4997,9.99,1785,https://magiceden.io/item-details/7KEcAFwpxEKmUMeLJnXv66gKTXnezo8KtPbVFVVeaDh3
 2607,9.99,422,https://magiceden.io/item-details/3iJKkuEuymLzYypjG3PtgisFtCKvbMEeNo5rMKsdnT5H
