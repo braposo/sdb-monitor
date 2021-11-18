@@ -1,6 +1,5 @@
 id,price,rank,url
-194,1.79,1989,https://magiceden.io/item-details/G5ufRoFZToyz1r9MzfH1QLRbrYLbtBAaax7Qp3n3RaPk
-57,1.8,2945,https://magiceden.io/item-details/C7pv7gKAmh8zDPi8kLGh7dd2rW76M1Gu34ouh1fueL8K
+194,1.8,1989,https://magiceden.io/item-details/G5ufRoFZToyz1r9MzfH1QLRbrYLbtBAaax7Qp3n3RaPk
 1742,1.81,3039,https://magiceden.io/item-details/B5ze38zVE7CZ5Xq7wu7Q7ZMQqQyZhWKNfzraRvbNk5dq
 2352,1.84,4532,https://magiceden.io/item-details/CmR9oeiXccypanXH8Argneqe3QvJCRnZ3jCPNUzsAxGB
 4046,1.85,3320,https://magiceden.io/item-details/FE2jbY9yA911DQfafQVzWehKqdn3V5bvUC61B1m323d9
@@ -18,6 +17,7 @@ id,price,rank,url
 2576,1.95,4513,https://magiceden.io/item-details/De2mtXggpwYVwaJ5LVUvMfxCS5KnkcJoCqo6YbzyyKrb
 2358,1.95,3752,https://magiceden.io/item-details/BbD29fkKn58KtVWTZHUExRfMfmZb1RsksnLEPJeC7xhv
 2516,1.98,3632,https://magiceden.io/item-details/ExhNJQX8Ke3huiPDuHDjko1vLqpDt1qxjp76PLZPgzdL
+4491,2,769,https://magiceden.io/item-details/4Jgmr2ad5oHfVsAsPa5FjTPkXgjHrr8odtD6fr8XJPu4
 24,2,4616,https://magiceden.io/item-details/5ohHi9Xa5SgzV26wWWgWEGo8pEa3QvdNxLF5qbDJQr7r
 2192,2,584,https://magiceden.io/item-details/5X54xZseykxCYASsBmo76vZjF2vVZouY4Hmc6EndawDi
 801,2,3057,https://magiceden.io/item-details/7gDNTxDAer88pUxMNDbQJG2ef8ZbDi2iX2y2TLRfKouA
@@ -42,6 +42,8 @@ id,price,rank,url
 657,2.269,1577,https://magiceden.io/item-details/Hn7e1jwZWjuBnwT2dfyBCHqsMN897R7PNH9M1sBVv8Cz
 2610,2.269,1615,https://magiceden.io/item-details/2RTDXSHG2eak7QKhZybkBxpGYiEruyaZN9xaZyB4vtQg
 882,2.288,2093,https://magiceden.io/item-details/4f3FhyEv8KJEw1R5QZeMAjzSiYtdCdDfgADdTNddR8AV
+2955,2.3,3022,https://magiceden.io/item-details/D9q3NhCHhC7QPKysHGwsfJ34UnjF7x622KxMyQm1FCn1
+1226,2.3,648,https://magiceden.io/item-details/75CZv394zaHqpqmjbMLPyDUzYteBF52uZU9Ux3LzSD6g
 4104,2.3,1601,https://magiceden.io/item-details/a9aBovPKFZ2eRfJgCisJ14JocpzFB4xEVdjNAbGRALs
 1103,2.3,1185,https://magiceden.io/item-details/6mLHsVXHEyFSLp7hghKRTt6Rcyrv8jRXASGS5VpaMKrF
 3360,2.3,546,https://magiceden.io/item-details/4yDojPUBXQuaBqsdtWFSoLMqjaAo97YQw8pXZ74jhwiJ
