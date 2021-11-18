@@ -1,7 +1,8 @@
 id,price,rank,url
-1529,1.88,4594,https://magiceden.io/item-details/4jyBnnUZsudLvBiKHDEm93Q9ymGfUQMnDJuuJhwN9VQd
-2855,1.9,2136,https://magiceden.io/item-details/C4QjhiSo6S7rZcQanMUJbp1c4sMECoG1FAuEfNB48EUy
-3185,1.99,4012,https://magiceden.io/item-details/E7YCZSZDYCBCp41162Tbq3Q5P8Sz6yNv7qX8hxK9nQkN
+712,1.97,3688,https://magiceden.io/item-details/C2xHACuZ3u4VPSysLdwNs2q1sNypGjCEK9Upk7dqioLz
+2912,1.99,2714,https://magiceden.io/item-details/DvzFj7J829s2UbNztzD9LuZfjG1hdbAXh6P2wxrEbbea
+2715,2,3903,https://magiceden.io/item-details/4zAMg59jKXz29k43g8dr3UNdR6NWh8NXms5TAEyTBv33
+1950,2,4904,https://magiceden.io/item-details/CPVidbyEHsy9mCaXD8TvWXnhYN9c3n6NrnWbybvWZNZy
 1060,2,4452,https://magiceden.io/item-details/8ea1xNpspcHeBEMDA2w5dziW8NCR2xrHpJVqXTaWVFe
 967,2,4413,https://magiceden.io/item-details/FhvHJ7gmruU2753ZJnN3Y3c5VTQdREfTSDKL7qW7tf6e
 3953,2,3498,https://magiceden.io/item-details/3m7b36atxPsbvWgZoe75RnzjaJPDKxetMpPqTN55xPfK
@@ -9,7 +10,6 @@ id,price,rank,url
 710,2,4257,https://magiceden.io/item-details/VFD9CysFCC6D8iLjohVqWjLaDR5tucftv4apifZNDzR
 1146,2.1,4768,https://magiceden.io/item-details/F1M3mRnXvrprjMKvgbjBBXRmHAukFpZ7b7YXXF62f5Eo
 2038,2.1,4871,https://magiceden.io/item-details/4NHZjgwcfohso1Ae7yfq3RK9M8Fqiz8H2XzT9icXKrcm
-3038,2.1,222,https://magiceden.io/item-details/4DMhNsfNWjV4T1nQPjteV8maovmxfwpHq7iPx3xg9xJ1
 397,2.1,3539,https://magiceden.io/item-details/d2kP5NGwP1mVSYA7RosDZRpKUtpFm6dp1g1yD3u4MMF
 4858,2.15,1653,https://magiceden.io/item-details/6jeBA2Ytb9yy9pvSqUBchx5XJGzjiSHdMTQC8VcbANfH
 1852,2.18,821,https://magiceden.io/item-details/4zyphLU8qasfJdLWzGCrrJAcdKXCFAMYWBYs8p5HvZbM
@@ -182,6 +182,7 @@ id,price,rank,url
 2642,4.9,38,https://magiceden.io/item-details/6k6qKxNjrxKHHQTD4kuM33Kc33twQzFe5BwFMv1tQL4Y
 4181,4.9,1392,https://magiceden.io/item-details/9uGiQHNnCkyQdTWS8nJHQapRtv2brYymkCyPuBdGdEKJ
 3525,4.9,4156,https://magiceden.io/item-details/DMs2SZ3k2HDVz2V4yaagZfZqc7uKrp5Wcw3wK4GBsqRG
+3811,5,9,https://magiceden.io/item-details/DwPfZmw6awVN27vRjAcvauFavQFWQgUszEb2zXfcv74y
 4565,5,4057,https://magiceden.io/item-details/CCqGXCoewBRH85ewbjTMPcg1JuKxKu9k7nALoRhUDszU
 961,5,341,https://magiceden.io/item-details/5xUGAQEWNV7He2xEkDvTjEytdRZwYP1LCj8i4Jhajnnh
 3193,5,649,https://magiceden.io/item-details/8WSqU8oPbcRZ8W5FADd2h4bQkJJRHZV66hj18cfdEu9R
