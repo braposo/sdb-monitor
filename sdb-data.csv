@@ -2,7 +2,6 @@ id,price,rank,url
 534,1.11,4817,https://magiceden.io/item-details/HUaVFCGxrPdBPtFwC8osbZcJzYL72XX1anLuVi5Z3L4K
 3270,1.14,3155,https://magiceden.io/item-details/HdCSh2ng9yJ1Js5nWjZyXJx8FKYd3hncEvwW9hZp2dfi
 156,1.15,3958,https://magiceden.io/item-details/EegakXuQ7TJP64YQcrRX9GogstAwQSdBy2i6mFncM2g5
-2280,1.15,799,https://magiceden.io/item-details/GEjwuvm7uGVzZth9AYcDHgjNnVZZj7KZe6DQTa9RNLwj
 2496,1.16,2535,https://magiceden.io/item-details/4iVWmzjiZK9E24vdwM7yugbbwpmWoJ6SU3Yd5B8miE42
 4124,1.18,2778,https://magiceden.io/item-details/7csURqSX6wyuTweAu28hnCxN4r55hPjXm9WDGznLuimu
 4142,1.19,2207,https://magiceden.io/item-details/GDnQvqJZXyexSA8fXGvVXvdp9dRnZyKHShWPRQJRLq3t
@@ -38,6 +37,7 @@ id,price,rank,url
 262,1.5,3097,https://magiceden.io/item-details/we5eAXXU5n6YQ3USuDiQTrqmD7ezA3cWHnmKiCVwfSK
 3981,1.5,3879,https://magiceden.io/item-details/7kfpa4DTYbCi6ycdBuYrwfK7XtqPAVGdwJXJHPJmNurM
 4472,1.52,4282,https://magiceden.io/item-details/8Wws4Wp9Vtr4gmo48om1bDbuxjdsBYAKGGGaApsdTGLi
+3271,1.59,690,https://magiceden.io/item-details/Hh9zxqRNjMk6nAqkYYjy74QVBnCDXQJJ9q7RGiiRYveE
 415,1.59,2832,https://magiceden.io/item-details/3MVXxbkXD27yBc2itWQWp1ZxggLLpBGeuWUvNbzrR4tN
 4658,1.59,2878,https://magiceden.io/item-details/Ey4EDpgFZ2hivcpsui4W2DfikMHGqaJjrKeR6ki17qSF
 3892,1.6,2046,https://magiceden.io/item-details/Cdf5jtUsp74r2ary4rpH6yvihP2fqNttEP8W84iCvjn8
@@ -50,7 +50,6 @@ id,price,rank,url
 2426,1.669,1405,https://magiceden.io/item-details/BYpsga2PGZPtibzTHef3MjydxkUL5GU5hcQQXvHnqQv3
 3853,1.68,638,https://magiceden.io/item-details/CnCYjLo4x94omVqxm9hPLS5agSxSdXLDEB449Ws4YVuS
 4774,1.68,3196,https://magiceden.io/item-details/2bCJnh1wBourqCP8ZnQLMGFxHkUoMSVZf2NZW9F44b41
-3271,1.69,690,https://magiceden.io/item-details/Hh9zxqRNjMk6nAqkYYjy74QVBnCDXQJJ9q7RGiiRYveE
 4310,1.69,3444,https://magiceden.io/item-details/D1ryKWwuuawAtZvsahqjktucbqLNTzvDHTv58s7eyiwZ
 4195,1.69,3611,https://magiceden.io/item-details/BmgcVeivCXfKknBXdCQcg1YrEu3YeJ7skHnDxVe3xrbq
 3451,1.6969,951,https://magiceden.io/item-details/BNNd35mnxu2X5AKPdHuYWiXJEKDAMrZkAjzYUk1zpyyP
