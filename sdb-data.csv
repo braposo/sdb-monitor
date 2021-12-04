@@ -17,7 +17,6 @@ id,price,rank,url
 4095,1,665,https://magiceden.io/item-details/4bg7G4H9C3uaE1PWxaFiJdkLEq5iGPg73VcN1PMpWRiX
 4471,1.05,983,https://magiceden.io/item-details/4zQaj74uwFFxjQCuStG3SHPakJwt9w91eSozsmUsLbpx
 4658,1.08,2878,https://magiceden.io/item-details/Ey4EDpgFZ2hivcpsui4W2DfikMHGqaJjrKeR6ki17qSF
-1363,1.1,664,https://magiceden.io/item-details/2wHK5Z5WGn31GJUresCkwBaFuVLmUS23NuyZdk4GR1j1
 5000,1.1,608,https://magiceden.io/item-details/6pAu77AZYg4nGoztGEqjsgpJGN6bd9GFp8EfHzrsBMKw
 1106,1.1,2631,https://magiceden.io/item-details/G38dMXZ23hdBjiLfAGKFXeTf48z8NuCN55FmVNv111wW
 1726,1.11,3945,https://magiceden.io/item-details/5toy5UFjxNAFT7cEPbMiiDQ2MhowurfvBUx7wv6D5Umr
@@ -40,6 +39,7 @@ id,price,rank,url
 4636,1.45,3501,https://magiceden.io/item-details/Zte2mJa4xmRroN1yw7wEXyEUaoMU6CgrcNZXBskdrtZ
 3765,1.45,4740,https://magiceden.io/item-details/BPfPLzCeADtSNUrroK3mCQg6ogRu9Rye7qeCpo7Xg2wJ
 782,1.45,4486,https://magiceden.io/item-details/FmzvQa7P8kxg2eu8EKuU7EcFH8awYfPNJdnZnsVAXNjN
+3271,1.49,690,https://magiceden.io/item-details/Hh9zxqRNjMk6nAqkYYjy74QVBnCDXQJJ9q7RGiiRYveE
 664,1.5,1906,https://magiceden.io/item-details/FAUhEzfzMcGMLHAsnf4LzoZPSCBWApjjUGJH2jLnzo4p
 2217,1.5,4200,https://magiceden.io/item-details/FoNHGBUcf4ASuKqRwPGbBaafm8CoRTDdT9JTNzrCT27Y
 369,1.5,4642,https://magiceden.io/item-details/HbMN1TePMMXLzYAATpF9HMk4pFDLtNsU8L9M9TzYGAAP
@@ -56,7 +56,6 @@ id,price,rank,url
 262,1.5,3097,https://magiceden.io/item-details/we5eAXXU5n6YQ3USuDiQTrqmD7ezA3cWHnmKiCVwfSK
 3981,1.5,3879,https://magiceden.io/item-details/7kfpa4DTYbCi6ycdBuYrwfK7XtqPAVGdwJXJHPJmNurM
 4472,1.52,4282,https://magiceden.io/item-details/8Wws4Wp9Vtr4gmo48om1bDbuxjdsBYAKGGGaApsdTGLi
-3271,1.59,690,https://magiceden.io/item-details/Hh9zxqRNjMk6nAqkYYjy74QVBnCDXQJJ9q7RGiiRYveE
 415,1.59,2832,https://magiceden.io/item-details/3MVXxbkXD27yBc2itWQWp1ZxggLLpBGeuWUvNbzrR4tN
 3892,1.6,2046,https://magiceden.io/item-details/Cdf5jtUsp74r2ary4rpH6yvihP2fqNttEP8W84iCvjn8
 227,1.6,353,https://magiceden.io/item-details/EaPGo5QNQkBCSpuBo2UeTZJ8BtYLMLkiYkcxaavMnaut
