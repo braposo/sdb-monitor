@@ -1,8 +1,8 @@
 id,price,rank,url
 2090,0.95,4333,https://magiceden.io/item-details/9Ly52RKHpU8gwDh3tdyu24RdDZGeavcicWZEf3ks3953
 4428,0.97,3648,https://magiceden.io/item-details/CrG8QKcxNRS5wqjQooar6kBQiMrc2BXVcjeiugMgebGh
-4688,0.99,691,https://magiceden.io/item-details/8zqYqRcoUrtRZt9S1P16G1NAP7RUtYiLu4gdnH9dpEMU
 2655,0.99,3271,https://magiceden.io/item-details/GLUrgNP7boG2bdfLdJwdk3XwsHqrvn9pcbiUKGVxTT5w
+1004,1,1418,https://magiceden.io/item-details/56g9LjXaWG6PGhAgeSaFJiWPk9mxAW8y7y3XdDYwYUTD
 4221,1,1118,https://magiceden.io/item-details/DfHTARgVH7kJPFjRP5JHtRZWEpjAx7raxpuFhuUiWMA9
 393,1,3135,https://magiceden.io/item-details/GPo9kfEQ63ja6kXbmnxQZjmgeH9GJe4b2uxaknQ5pTb7
 2092,1,1891,https://magiceden.io/item-details/8S2pswMN63GobkWFTu8psJ7kGkCKfbsyTkjA9znycd16
@@ -10,7 +10,6 @@ id,price,rank,url
 2200,1,3769,https://magiceden.io/item-details/Gj6cSxYxcQUpoTW9Cj8nSX8CMTjU8NVeNssub5vBdrG2
 2086,1,3973,https://magiceden.io/item-details/91FH73gK9bqjjKkG2jw7i8owLLaijTiTBB8MiwE2uLb1
 4493,1,1687,https://magiceden.io/item-details/14LXhte6tQQWTLNZw2mih8GV9EWPo1qGnMwGLAuK8gxz
-2792,1,2264,https://magiceden.io/item-details/BEyzL54TSpj3Qiu2qUHp3MwWV56SB5LxXMbAiNsU4kfT
 591,1,775,https://magiceden.io/item-details/8cj2MrugktUNuf1ADB74pb5CHhBs5eCuVtQAXJSQkgSE
 4471,1.05,983,https://magiceden.io/item-details/4zQaj74uwFFxjQCuStG3SHPakJwt9w91eSozsmUsLbpx
 4658,1.08,2878,https://magiceden.io/item-details/Ey4EDpgFZ2hivcpsui4W2DfikMHGqaJjrKeR6ki17qSF
@@ -93,6 +92,7 @@ id,price,rank,url
 1206,1.99,1193,https://magiceden.io/item-details/8zCgM43mzzwFyZUdWF1KBwSqVEEXYFq1zHMpF7skmVL7
 4324,1.99,1367,https://magiceden.io/item-details/Aoai9yR2yFmKQ8CFfp2QLDASMW64kncZjnMhFEFNNSkA
 203,1.999,3170,https://magiceden.io/item-details/vLrB5318XQsSMtcxADEP3B6z2o7AxPFX1V5G4zrF64g
+4184,2,4203,https://magiceden.io/item-details/AgnCDvgx4ssN5UgkcH4h95u8AFvU6jj7eBmNiE5nhh7t
 1833,2,266,https://magiceden.io/item-details/B6BmvJttaCdgcMfESCot7GoQDJGNBCg9S4cvqSERvbC9
 4982,2,770,https://magiceden.io/item-details/uKLUetLHhgXbKAb1rH9z2UCU8mnXSJUQAaL1NPBdLc4
 3457,2,2787,https://magiceden.io/item-details/8xzQ6q3BVZeGrVqBTWoGqSon1tshPZZtYmwnM8KeKJpU
