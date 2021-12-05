@@ -2,7 +2,6 @@ id,price,rank,url
 4428,0.97,3648,https://magiceden.io/item-details/CrG8QKcxNRS5wqjQooar6kBQiMrc2BXVcjeiugMgebGh
 4688,0.99,691,https://magiceden.io/item-details/8zqYqRcoUrtRZt9S1P16G1NAP7RUtYiLu4gdnH9dpEMU
 2655,0.99,3271,https://magiceden.io/item-details/GLUrgNP7boG2bdfLdJwdk3XwsHqrvn9pcbiUKGVxTT5w
-435,1,1697,https://magiceden.io/item-details/HSeuqMfbM7dQ2ztx8CC8JtwvTZbaCm6umKiYhX6sMay6
 4399,1,3777,https://magiceden.io/item-details/GrKUivrfsBGbV1bUVXaHE5sZxzq6bpzBGwkAnJXdb4NZ
 2200,1,3769,https://magiceden.io/item-details/Gj6cSxYxcQUpoTW9Cj8nSX8CMTjU8NVeNssub5vBdrG2
 2086,1,3973,https://magiceden.io/item-details/91FH73gK9bqjjKkG2jw7i8owLLaijTiTBB8MiwE2uLb1
@@ -78,6 +77,7 @@ id,price,rank,url
 48,1.86,1934,https://magiceden.io/item-details/JCDfpEfzJzZm7r5pawEtroHBM2LyncgbnpR2Dxfqkkcr
 941,1.878,3746,https://magiceden.io/item-details/3YqTk61W2EwbkKPwkoxcG19e5o6pUakZ5iKQ1GJSf9kH
 4414,1.888,3532,https://magiceden.io/item-details/DGCwJrdS6qtDJjuJStJzfHBfbhnM2raTTLrVc75a29w7
+2218,1.9,1626,https://magiceden.io/item-details/5Xxry4MTeYwfUmzMvfekhn97WawytaSwti52A2yWMsyV
 4828,1.9,2454,https://magiceden.io/item-details/3caa8aQhZCjU6uTNNxTRPKKoakWiKLUQaG8y2UPEp5Rq
 4712,1.93,4654,https://magiceden.io/item-details/CgWVMqc2wJGGm8czpzatLGw1c9gUNfp86UscGkYv7nZH
 255,1.95,531,https://magiceden.io/item-details/ELeuYwbLWaxCCxCTHZiTb5s9Cb3g9zNPcoUNCn2r7w8P
@@ -214,7 +214,6 @@ id,price,rank,url
 1949,3.9,1668,https://magiceden.io/item-details/86YLVtDcxKqY5JqEFQ7gL7C2daLtbRCLNi5GggMXk4S4
 2093,3.9,2474,https://magiceden.io/item-details/62AafZwgpG34Zm1BRVnBx21uG3PXfxtWtpgjwcEhN6eC
 1343,3.99,995,https://magiceden.io/item-details/FYPqe8fYLyZUCRBvQ6H6tUxtBXAyPUJCgRP9TpXc2FBq
-2218,4,1626,https://magiceden.io/item-details/5Xxry4MTeYwfUmzMvfekhn97WawytaSwti52A2yWMsyV
 2180,4,622,https://magiceden.io/item-details/9qSyGuUiEF3amu6naYw9gdoDtcYmvPX1Tfz75XPgMQb7
 4369,4,496,https://magiceden.io/item-details/CTF9tcH5XUsi5DtYzeZJtafd5ErsfaRSdf48ZCdwxspj
 315,4,3780,https://magiceden.io/item-details/GucfpE1C8PsUEfCn7X1G7LDa72vByXHeDJNi8AhjVNRe
