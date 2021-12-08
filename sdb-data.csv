@@ -5,6 +5,7 @@ id,price,rank,url
 790,1.04,4549,https://magiceden.io/item-details/2GeDVfDGfChkTMbmyaAa3oNAU65vUz1sPJywYEs1qn2m
 4487,1.05,3757,https://magiceden.io/item-details/7XAtAv2NNgYVnXP2snRWWQ6Nq4ZDJsUkrtLRrmv2voFK
 915,1.08,1032,https://magiceden.io/item-details/C8EjyzHREwcthMAfkFyUgKefUpiywkB3GFLkQznxuM9v
+1510,1.1,1324,https://magiceden.io/item-details/8Csw3NFAA5ShJC5NQeZj3ch88EHAkfbAPcNg4477wk7B
 1935,1.1,930,https://magiceden.io/item-details/GFBf7pRRUPqVMJiUoXbJErrrz4pSr1nkrcLZQW8g2X5Y
 201,1.1,4879,https://magiceden.io/item-details/FJKBiUUs9291dogGG8eQC8QKKtbfTqBMVVVfXXFP1gdZ
 4227,1.1,2929,https://magiceden.io/item-details/Bg9auexhQ52h5mhdcLyQvheUp744RK1YvdGSAchWgo1q
@@ -39,7 +40,6 @@ id,price,rank,url
 1016,1.5,1758,https://magiceden.io/item-details/CMfjHCwc2yPFLtpeGJ5H3GYJofGnccrToNFyRoZVyfiY
 952,1.5,2185,https://magiceden.io/item-details/4dXuRppmQan1TUWyTKbPZsbsUSvpgW3r7FGN33cMzgVb
 3571,1.5,2937,https://magiceden.io/item-details/CwGruNjUKQ8hj6uweBm5f2RPm2XUhTrgTCcRqBBar27z
-1064,1.5,4154,https://magiceden.io/item-details/EDEooahNjFvZHX98cLAy2hkor8zu9dVJZzBgZWtwSRzw
 1462,1.5,1987,https://magiceden.io/item-details/BP4xfgnbtBnYqJUJBSgtkLRcfoPVh7E9NhutukXDcdHr
 1769,1.5,520,https://magiceden.io/item-details/4xceLm9FekDXdT8sX7Zs9AmE9xAksDuzhjXXd6PsL6aH
 3488,1.5,3813,https://magiceden.io/item-details/7VutxiKxWyAYsnaeiGs6KDNseecT6hbFWsDQT4izyWqm
@@ -140,7 +140,6 @@ id,price,rank,url
 4271,2.42,4116,https://magiceden.io/item-details/7ehNv8713gkK6KEBwRk8cZFV2D7aEedgnnRkCw5M7qnm
 4032,2.45,80,https://magiceden.io/item-details/24Sad8pY83DNmX7eRj3mp3i6RgyuQEDcu21KDUmmKjQS
 4510,2.45,4670,https://magiceden.io/item-details/DaFN3kg4TDoMWoprUQXGHJ2XoW56NLYAdaEHpziWTvi5
-733,2.49,234,https://magiceden.io/item-details/7E5LAKBGcqcvynG3oBwgqVdNR626mWm5TWMPP5WLZJ4R
 2151,2.49,684,https://magiceden.io/item-details/3xF8XTepG57aU7oh7dpn9AhqN79wuKym7Xdh2iTxFWNy
 761,2.5,1369,https://magiceden.io/item-details/CawxFp4AghoM3bhtgUgrun477osXXhKVtGtY6r2ZAUbT
 3759,2.5,2695,https://magiceden.io/item-details/u4bdqMz843HE9H6rNKjBaSsnpNQapnZQHZVLUQbxcem
