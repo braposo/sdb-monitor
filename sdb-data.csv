@@ -28,8 +28,6 @@ id,price,rank,url
 2896,1,4502,https://magiceden.io/item-details/3iwHaSC6hvzfaDiYsN4ffsrTHjPnGR4T9BZW2dgJuzf3
 1976,1.05,3553,https://magiceden.io/item-details/ETFnXCxxd1vYcww3Wkpdrc9XYGAXjGXbSo3ESEVLXLBw
 369,1.07,4642,https://magiceden.io/item-details/HbMN1TePMMXLzYAATpF9HMk4pFDLtNsU8L9M9TzYGAAP
-223,1.1,3798,https://magiceden.io/item-details/268NTW4JdVhhdotTTa3ASCgQxPA4vSd9gMLsQNW3nq9u
-3295,1.1,4015,https://magiceden.io/item-details/7RRE8ymH8SoTYRyjb5PYkcptTLBQoJp5Qea7k2koMHpn
 4841,1.1,2282,https://magiceden.io/item-details/4t1mTokyuXg7xuW8afZvsCkKYi5QoWRieiNjyaQQSSPu
 826,1.1,2275,https://magiceden.io/item-details/HgxPATmGyZ93DQVd5aagputKL8CZUCASWB1EFqDxq2L4
 1314,1.1,686,https://magiceden.io/item-details/Dr1bLpw76gwauiRsWVGMQdsUb7iPP7iDDA1iZGKp6G35
@@ -55,7 +53,6 @@ id,price,rank,url
 3964,1.5,932,https://magiceden.io/item-details/GYZwfyrBUrcvTWmJZU9h6rzZyKMVKt3BKywvBbdwrwin
 1824,1.5,514,https://magiceden.io/item-details/G8hkTY1JFYZHoUyeyJ9r5u5DdfiPbU3yEpBoPpfWzjrf
 4360,1.5,2674,https://magiceden.io/item-details/ApRAXKbxf9YtXyHgN6ny9GDnSs9bW9xrDfFdUKjzCp2W
-4763,1.5,2742,https://magiceden.io/item-details/7qrbsTZWcCxwQENDDvMudGSnmaaRP2S1Rnp78LczNjCQ
 4906,1.5,2268,https://magiceden.io/item-details/X5R3gackcyjLaafoCJq8s1G9UNhTaAvCyjKwHu2UmzZ
 2851,1.5,4655,https://magiceden.io/item-details/EgF2VcNdMSJeEHey6zGk9H4yiHKGyYo3NXv6QJjQPN1a
 1840,1.5,1477,https://magiceden.io/item-details/9n8y4Ynr9VRzqnzi3GMUCKPPi8ZrQACUdVzvyGuChapw
@@ -255,6 +252,7 @@ id,price,rank,url
 662,9.69,1111,https://magiceden.io/item-details/6qoN2Em9eSkh2Xwr9kXWih1SKCw6D7yuGaH6enRtw5fE
 2372,9.99,13,https://magiceden.io/item-details/6cSAWsbLBYNCKFdZ7oezYG5cguu1FwBpsqarHdxch6MX
 2607,9.99,422,https://magiceden.io/item-details/3iJKkuEuymLzYypjG3PtgisFtCKvbMEeNo5rMKsdnT5H
+1456,10,115,https://magiceden.io/item-details/Ew1gcmZEticGWwfhoGc8nyG65UC87CCQwhMAdNoBCsKT
 3618,10,263,https://magiceden.io/item-details/9kutfDoxjTN6NwShMrmTUDSwgLjKn6nUzWJkuDF51VV7
 2448,10,2949,https://magiceden.io/item-details/2h63FpFnR7RzqCgZP2irCnBizML9nJrcXzQzQ26LJbhx
 4341,10,4093,https://magiceden.io/item-details/AZFb67hXfTDcFrfodHYB2rWiLZ6X9s4NjfNwZghzNUt9
