@@ -199,6 +199,7 @@ id,price,rank,url
 418,3.35,4765,https://magiceden.io/item-details/3PgVzhpzS4EiDLQgzMLQ2A3PDKZkCPaFnpTyggGeBHnX
 665,3.44,722,https://magiceden.io/item-details/EBT5h6XXMCJkh7gSw8F1gP8kra9wrBQxgBBuijDFgoUz
 3172,3.48,136,https://magiceden.io/item-details/GUDeACwSuJC2RDVwSaxwxBnmT7TsucF8paxHZyWfGdym
+2537,3.5,103,https://magiceden.io/item-details/BFTquBA6gzUwKkat8F3XnFJbmtEPo1xiYjrKNPrs5C71
 1960,3.5,479,https://magiceden.io/item-details/2LGzh9vXLATTAaZWy1CLnKkcB82VcA4687yHKVSxs1kw
 4586,3.5,1811,https://magiceden.io/item-details/36nxRjFetT71EjQ1H8aNMNkoRJmrMchVnehBUMxZiVw7
 4212,3.5,407,https://magiceden.io/item-details/8q4rYyHqbStupfws5tMdiEsFjvp7yPh2ePuGiJeUg6JJ
@@ -220,7 +221,6 @@ id,price,rank,url
 830,4,20,https://magiceden.io/item-details/6Tnh8faiRepYSMAc4ivSvBkJt88ZsqmYmkEASPy2dz47
 2180,4,622,https://magiceden.io/item-details/9qSyGuUiEF3amu6naYw9gdoDtcYmvPX1Tfz75XPgMQb7
 315,4,3780,https://magiceden.io/item-details/GucfpE1C8PsUEfCn7X1G7LDa72vByXHeDJNi8AhjVNRe
-776,4.4,242,https://magiceden.io/item-details/3v1x7XXr5WNc2PuzyRcMXihia3JFXXYZGU6rTWnySzW3
 1564,4.4,4937,https://magiceden.io/item-details/7wVqrE83rQSu3XJP7oLoJrp1XKwKy1z6D9qPmBkEFNGD
 1123,4.44,2919,https://magiceden.io/item-details/7b4ZyoLPHYnJSF4TGDhLGHFusNriRz5qoU9ttxMkaLAz
 9,4.5,116,https://magiceden.io/item-details/5zw9GWcC3TDji9CuQQGMfwqPEaRKG75sDheTGYAFswPV
@@ -231,7 +231,6 @@ id,price,rank,url
 2642,4.9,38,https://magiceden.io/item-details/6k6qKxNjrxKHHQTD4kuM33Kc33twQzFe5BwFMv1tQL4Y
 4181,4.9,1392,https://magiceden.io/item-details/9uGiQHNnCkyQdTWS8nJHQapRtv2brYymkCyPuBdGdEKJ
 3525,4.9,4156,https://magiceden.io/item-details/DMs2SZ3k2HDVz2V4yaagZfZqc7uKrp5Wcw3wK4GBsqRG
-1445,5,580,https://magiceden.io/item-details/BTanjF52dJyiovPmEYekgjdrcLvJsp3va7LZRVufeyFQ
 2010,5,2684,https://magiceden.io/item-details/2aDtJB7p1NVkyd3JzqGQ5CNjNWSVZ6GUEntaeVmNjdFX
 2571,5,460,https://magiceden.io/item-details/4rbyukVH4z7Z4ZryoiU2sG2U7KDyVkUT6i6C79rYUDns
 1025,5,1242,https://magiceden.io/item-details/ErWCYNBGRhpNrBtGEs6Xqhq84e9LS6Dsi2N8qR15NSqa
